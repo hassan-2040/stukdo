@@ -51,5 +51,6 @@ group :development do
   gem 'simple_form'
 
   gem 'devise'
-end
 
+  gem 'auto_html', '~> 1.6', '>= 1.6.4'
+end
